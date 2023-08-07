@@ -36,6 +36,7 @@ if product == 'COFFEE':
 		print("\n Sorry!, we only do cash") 
 print("Your change is {}" .format(change))
 print()
+print("Success!")
 
 
 print("In other to be sure we serve you precisely, confirm the follow:")
