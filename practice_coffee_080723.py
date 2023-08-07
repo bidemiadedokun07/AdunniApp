@@ -37,6 +37,7 @@ if product == 'COFFEE':
 print("Your change is {}" .format(change))
 print()
 print("Success!")
+print("Thank you for shopping with us. We will be glad to see you back soon!")
 
 
 print("In other to be sure we serve you precisely, confirm the follow:")
